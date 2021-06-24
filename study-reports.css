@@ -1,6 +1,10 @@
 body {
-	width: 500px;
-	/*text-align:center;
+	/*width: 500px;
+	text-align:center;
 	margin-right: auto;*/
 	margin-left: 100px;
+}
+
+div{
+	color:blue;
 }
